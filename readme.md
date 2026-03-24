@@ -1,4 +1,5 @@
 hi guys
+
 this is my custom made linux distro based on arch and hyprland, MiraOS. inspired by omarchy, miraos aims to be great for gaming and productivity, without the big hassle (for people who dont want to use the terminal like at all).
 with the Illogical Impulse dotfiles, MiraOS is also a plug-n-play distro, with good customizability and ease. (chatgpt didnt help me i swear)
 
@@ -8,6 +9,7 @@ first, you install arch linux using archinstall and kde plasma (MANDATORY, NO OT
 
 additional packages:
 kio-admin
+
 fastfetch (optional)
 
 in kde plasma, install all your programs and drivers, that you will use after KDE.
