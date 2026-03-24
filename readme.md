@@ -39,4 +39,7 @@ replace the file with one in repo
 fastfetch ascii directory:
 ~/.config/miraos      (new folder)
 
+os logo directory:
+/usr/share/icons/hicolor/scalable/apps
+
 done. enjoy MiraOS!
