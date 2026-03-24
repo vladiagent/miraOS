@@ -1,0 +1,6 @@
+NAME="Freedesktop SDK"
+VERSION="25.08 (Flatpak runtime)"
+VERSION_ID=25.08
+ID=org.freedesktop.platform
+PRETTY_NAME="Freedesktop SDK 25.08 (Flatpak runtime)"
+BUG_REPORT_URL=https://gitlab.com/freedesktop-sdk/freedesktop-sdk/issues
