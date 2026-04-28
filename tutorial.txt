@@ -1,0 +1,7 @@
+miraos boot location        /usr/share/systemd/bootctl/
+miraos logo location        /usr/share/icons/hicolor/scalable/apps
+miraos branding             /etc/
+
+ascii and background location ~/.config/miraos
+
+RUN sudo mkinitcpio -P AFTER PUTTING MIRAOS BOOT SPLASH
