@@ -4,4 +4,7 @@ miraos branding             /etc/
 
 ascii and background location ~/.config/miraos
 
+
+mkinitcpio.d config location /etc/mkinitcpio.d
+
 RUN sudo mkinitcpio -P AFTER PUTTING MIRAOS BOOT SPLASH
